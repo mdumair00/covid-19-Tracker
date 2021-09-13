@@ -67,7 +67,7 @@ function App() {
       }
       else{
         setMapCenter([data.countryInfo.lat, data.countryInfo.long]);
-        setMapZoom(3);
+        setMapZoom(4);
       }
     })
       
